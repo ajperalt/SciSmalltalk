@@ -7,6 +7,11 @@ Last stable version : v0.12
 
 :bangbang: Current active development repository is located at **[SmalltalkHub](http://www.smalltalkhub.com/#!/~SergeStinckwich/SciSmalltalk)**
 
+Some documentation (to be cleaned and reorganized) about SciSmalltalk is available on the Wiki here: 
+https://github.com/SergeStinckwich/SciSmalltalk/wiki
+
+We have a continous integration job running here: https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/
+
 ##How to install SciSmalltalk in Pharo 2.0/3.0/4.0
 
 If you want to install the last stable version (0.12):
