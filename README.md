@@ -1,3 +1,11 @@
+SciSmalltalk is a new Smalltalk project, similar to existing scientific libraries like NumPy, SciPy for Python or SciRuby for Ruby. SciSmalltalk already provide basic functionalities under MIT licence:
+- complex and quaternions extensions
+- random number generator
+- fuzzy algorithms
+- LAPACK linear algebra package
+- Didier Besset's numerical methods
+- Ordinary Differentials Equations (ODE) Solver)
+
 ##Build statuses
 Last stable version : v0.12
 
