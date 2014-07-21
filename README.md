@@ -3,7 +3,8 @@
 Build statuses:
 
   - Pharo **2**: [![Build Status](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=20,VERSION=development,VM=vm/badge/icon)](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=20,VERSION=development,VM=vm/)
-  - Pharo **3**: [![Build Status](https://ci.inria.fr/pharo-contribution/buildStatus/icon?job=SciSmalltalk/PHARO=30,VERSION=bleedingEdge,VM=vm)](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=30,VERSION=bleedingEdge,VM=vm/)
+  - Pharo **3**: [![Build Status](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=30,VERSION=development,VM=vm/badge/icon)](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=30,VERSION=development,VM=vm/) 
+  - Pharo **4**:
 
 ##How to install SciSmalltalk in Pharo 2.0/3.0
 
