@@ -6,7 +6,7 @@ SciSmalltalk is a new Smalltalk project, similar to existing scientific librarie
 - Didier Besset's numerical methods,
 - Ordinary Differential Equation (ODE) Solver).
 
-[![Lorentz attractor with SciSmalltalk and GraphET](http://t.co/PHcJIJ6Xjk)](https://twitter.com/SergeStinckwich/status/457039376111788032)
+[![Lorentz attractor with SciSmalltalk and GraphET](https://pbs.twimg.com/media/Ble65B3CYAEkMoR.jpg)](https://twitter.com/SergeStinckwich/status/457039376111788032)
 
 ##Build statuses
 Last stable version : v0.12
