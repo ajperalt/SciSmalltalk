@@ -1,11 +1,11 @@
-:bangbang: Current active development repository is located at **[SmalltalkHub](http://www.smalltalkhub.com/#!/~SergeStinckwich/SciSmalltalk)**
-
 ##Build statuses
 Last stable version : v0.12
 
   - Pharo **2**: [![Build Status](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=20,VERSION=stable,VM=vm/badge/icon)](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=20,VERSION=stable,VM=vm/)
   - Pharo **3**: [![Build Status](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=30,VERSION=stable,VM=vm/badge/icon)](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=30,VERSION=stable,VM=vm/) 
   - Pharo **4**: [![Build Status](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=40,VERSION=stable,VM=vm/badge/icon)](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=40,VERSION=stable,VM=vm/)
+
+:bangbang: Current active development repository is located at **[SmalltalkHub](http://www.smalltalkhub.com/#!/~SergeStinckwich/SciSmalltalk)**
 
 ##How to install SciSmalltalk in Pharo 2.0/3.0/4.0
 
