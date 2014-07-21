@@ -1,10 +1,12 @@
-SciSmalltalk is a new Smalltalk project, similar to existing scientific libraries like NumPy, SciPy for Python or SciRuby for Ruby. SciSmalltalk already provide basic functionalities under MIT licence:
+SciSmalltalk is a new Smalltalk project, similar to existing scientific libraries like NumPy, SciPy for Python or SciRuby for Ruby. SciSmalltalk already provide the following basic functionalities:
 - complex and quaternions extensions,
 - random number generators,
 - fuzzy algorithms,
 - LAPACK linear algebra package,
 - Didier Besset's numerical methods,
-- Ordinary Differentials Equations (ODE) Solver).
+- Ordinary Differential Equation (ODE) Solver).
+
+[![Lorentz attractor with SciSmalltalk and GraphET](http://t.co/PHcJIJ6Xjk)](https://twitter.com/SergeStinckwich/status/457039376111788032)
 
 ##Build statuses
 Last stable version : v0.12
@@ -43,6 +45,9 @@ Gofer new
 ```
 
 All packages load into the Math-* package names.
+
+## Licence
+SciSmalltalk is licensed under MIT. See : http://opensource.org/licenses/MIT
 
 ## How to contribute to SciSmalltalk
 
