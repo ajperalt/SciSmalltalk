@@ -3,7 +3,7 @@ SciSmalltalk is a new Smalltalk project, similar to existing scientific librarie
 - random number generators,
 - fuzzy algorithms,
 - Didier Besset's numerical methods,
-- Ordinary Differential Equation (ODE) Solver).
+- Ordinary Differential Equation (ODE) solvers.
 
 [![Lorentz attractor with SciSmalltalk and GraphET](https://pbs.twimg.com/media/Ble65B3CYAEkMoR.jpg)](https://twitter.com/SergeStinckwich/status/457039376111788032)
 
@@ -15,7 +15,7 @@ https://github.com/SergeStinckwich/SciSmalltalk/wiki
 Natalia wrote some explanation about benchmarking SciSmalltalk in the Pharo For Enterprise Book: https://github.com/SquareBracketAssociates/PharoForTheEnterprise-english/blob/ae40e7ab6f7651f6e7c271869eb1efc4e531e774/ComparingSolutions/ComparingSolutions.pier
 
 ##Build statuses
-Last stable version : v0.12
+Last stable version : v0.13
 
 We have a continous integration job running here: https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/
 
@@ -26,14 +26,14 @@ We have a continous integration job running here: https://ci.inria.fr/pharo-cont
 
 ##How to install SciSmalltalk in Pharo 2.0/3.0/4.0 and Squeak 4.5
 
-If you want to install the last stable version (0.12):
+If you want to install the last stable version (0.13):
 
 ```Smalltalk
 Gofer new
 	url: 'http://www.smalltalkhub.com/mc/SergeStinckwich/SciSmalltalk/main';
 	package: 'ConfigurationOfSciSmalltalk';
 	load.
-((Smalltalk at: #ConfigurationOfSciSmalltalk) project version: '0.12') load.
+((Smalltalk at: #ConfigurationOfSciSmalltalk) project version: '0.13') load.
 ```
 
 If you want to install the development version :
