@@ -2,6 +2,7 @@ SciSmalltalk is a new Smalltalk project, similar to existing scientific librarie
 - complex and quaternions extensions,
 - random number generators,
 - fuzzy algorithms,
+- KDE-trees,
 - Didier Besset's numerical methods,
 - Ordinary Differential Equation (ODE) solvers.
 
