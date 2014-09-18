@@ -16,7 +16,7 @@ https://github.com/SergeStinckwich/SciSmalltalk/wiki
 Natalia wrote some explanation about benchmarking SciSmalltalk in the Pharo For Enterprise Book: https://github.com/SquareBracketAssociates/PharoForTheEnterprise-english/blob/ae40e7ab6f7651f6e7c271869eb1efc4e531e774/ComparingSolutions/ComparingSolutions.pier
 
 ##Build statuses
-Last stable version : v0.14
+Last stable version : v0.14 (Pharo 3.0 and Pharo 4.0), v0.12 (Squeak and Pharo 2.0)
 
 We have a continous integration job running here: https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/
 
@@ -24,7 +24,7 @@ We have a continous integration job running here: https://ci.inria.fr/pharo-cont
   - Pharo **4**: [![Build Status](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=40,VERSION=stable,VM=vm/badge/icon)](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=40,VERSION=stable,VM=vm/)
 
 
-##How to install SciSmalltalk in Pharo 3.0/4.0 and Squeak 4.5
+##How to install SciSmalltalk in Pharo 3.0/4.0
 
 If you want to install the last stable version (0.14):
 
