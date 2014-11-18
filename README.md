@@ -16,7 +16,7 @@ https://github.com/SergeStinckwich/SciSmalltalk/wiki
 Natalia wrote some explanation about benchmarking SciSmalltalk in the Pharo For Enterprise Book: https://github.com/SquareBracketAssociates/PharoForTheEnterprise-english/blob/ae40e7ab6f7651f6e7c271869eb1efc4e531e774/ComparingSolutions/ComparingSolutions.pier
 
 ##Build statuses
-Last stable version : v0.14 (Pharo 3.0 and Pharo 4.0), v0.12 (Squeak and Pharo 2.0)
+Last stable version : v0.16 (Pharo 3.0 and Pharo 4.0), v0.12 (Squeak and Pharo 2.0)
 
 We have a continous integration job running here: https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/
 
