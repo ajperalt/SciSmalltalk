@@ -26,14 +26,14 @@ We have a continous integration job running here: https://ci.inria.fr/pharo-cont
 
 ##How to install SciSmalltalk in Pharo 3.0/4.0
 
-If you want to install the last stable version (0.14):
+If you want to install the last stable version (0.16):
 
 ```Smalltalk
 Gofer new
 	url: 'http://www.smalltalkhub.com/mc/SergeStinckwich/SciSmalltalk/main';
 	package: 'ConfigurationOfSciSmalltalk';
 	load.
-((Smalltalk at: #ConfigurationOfSciSmalltalk) project version: '0.14') load.
+((Smalltalk at: #ConfigurationOfSciSmalltalk) project version: '0.16') load.
 ```
 
 If you want to install the development version :
